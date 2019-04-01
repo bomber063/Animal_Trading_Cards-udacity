@@ -1,5 +1,5 @@
 # Animal_Trading_Cards-udacity
-# 两个空格代替<br>标签
+`两个空格代替<br>标签`
 ## card.html建议
 * 代码第6行
 > 忽略样式表和脚本的类型属性。  
