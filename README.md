@@ -19,17 +19,36 @@
 ## styles.css建议
 * 代码第2行
 ### 建议
-[前端工程师纳米学位样式指南 - CSS (声明区标点)](https://github.com/udacity/frontend-nanodegree-styleguide-zh/blob/master/%E5%89%8D%E7%AB%AF%E5%B7%A5%E7%A8%8B%E5%B8%88%E7%BA%B3%E7%B1%B3%E5%AD%A6%E4%BD%8D%E6%A0%B7%E5%BC%8F%E6%8C%87%E5%8D%97%20-%20CSS.md#%E5%A3%B0%E6%98%8E%E5%8C%BA%E6%A0%87%E7%82%B9)
+[前端工程师纳米学位样式指南 - CSS (声明区标点)](https://github.com/udacity/frontend-nanodegree-styleguide-zh/blob/master/%E5%89%8D%E7%AB%AF%E5%B7%A5%E7%A8%8B%E5%B8%88%E7%BA%B3%E7%B1%B3%E5%AD%A6%E4%BD%8D%E6%A0%B7%E5%BC%8F%E6%8C%87%E5%8D%97%20-%20CSS.md#%E5%A3%B0%E6%98%8E%E5%8C%BA%E6%A0%87%E7%82%B9)有建议指出：  
 >最后一个选择符和声明区起始处的左大括号之间需加空格  
 
 不推荐：  
-
+```
 .audio-block{   
     margin: 0;  
 }
+```
 推荐：  
-
+```
 .audio-block {   
     margin: 0;   
 }  
+```
 其他类似地方也都建议这样稍作修改。:)  
+
+### 建议  
+第3行代码   
+在[前端工程师纳米学位样式指南 - CSS (属性名标点)](https://github.com/udacity/frontend-nanodegree-styleguide-zh/blob/master/%E5%89%8D%E7%AB%AF%E5%B7%A5%E7%A8%8B%E5%B8%88%E7%BA%B3%E7%B1%B3%E5%AD%A6%E4%BD%8D%E6%A0%B7%E5%BC%8F%E6%8C%87%E5%8D%97%20-%20CSS.md#%E5%B1%9E%E6%80%A7%E5%90%8D%E6%A0%87%E7%82%B9) 有建议指出：  
+* 所有属性名冒号后均需添加空格，但属性和冒号间不加空格，以增加连贯性。  
+不推荐：  
+```
+font-weight:bold;  
+padding : 0;  
+margin :0;  
+```
+推荐：  
+```
+font-weight: bold;  
+padding: 0;   
+margin: 0;  
+```
