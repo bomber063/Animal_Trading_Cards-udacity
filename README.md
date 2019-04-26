@@ -52,3 +52,11 @@ font-weight: bold;
 padding: 0;   
 margin: 0;  
 ```
+
+## 建议
+代码第15行  
+棒极了  
+卡片完成的很不错，鼓励你继续动手练习，尝试为卡片添加更多的样式。例如设置圆角、阴影效果等~  
+延伸阅读：  
+* [border-radius (by Mozilla)](https://developer.mozilla.org/zh-CN/docs/Web/CSS/Reference)
+* [box-shadow (by Mozilla)](https://developer.mozilla.org/zh-CN/docs/Web/CSS/box-shadow)
