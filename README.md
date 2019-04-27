@@ -59,4 +59,10 @@ margin: 0;
 卡片完成的很不错，鼓励你继续动手练习，尝试为卡片添加更多的样式。例如设置圆角、阴影效果等~  
 延伸阅读：  
 * [border-radius (by Mozilla)](https://developer.mozilla.org/zh-CN/docs/Web/CSS/Reference)
-* [box-shadow (by Mozilla)](https://developer.mozilla.org/zh-CN/docs/Web/CSS/box-shadow)
+* [box-shadow (by Mozilla)](https://developer.mozilla.org/zh-CN/docs/Web/CSS/box-shadow)  
+
+## 建议
+一个小小的建议建议：  
+现在 introduce 里面的文字有些太靠近边框了呢（下方截图有一个简单的对比），如果为其设置一些內边距（padding）也许会是一个不错的做法哦，比如 padding: 10px;。:)  
+![图片1](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/63821/1528649759/Screen_Shot_2018-06-11_at_12.55.40_AM.png)  
+![图片2](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/63821/1528649759/Screen_Shot_2018-06-11_at_12.55.40_AM.png)  
