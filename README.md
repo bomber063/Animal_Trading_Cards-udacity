@@ -69,3 +69,7 @@ margin: 0;
 ### 太棒了
 第28行代码  
 准确去掉了列表项左侧的小圆点。👍  
+
+## 建议
+第35行代码
+在编写完成之后，推荐用一些工具来美化一下整个文档的代码格式，使其看起来更加专业。例如 [CSS Beautifier/Formatter](https://codebeautify.org/css-beautify-minify)，只需将整个 CSS 文档复制粘贴，然后点击中间的 Beautify 按钮就好啦～
