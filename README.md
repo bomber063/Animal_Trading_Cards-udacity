@@ -72,4 +72,5 @@ margin: 0;
 
 ## 建议
 第35行代码
-在编写完成之后，推荐用一些工具来美化一下整个文档的代码格式，使其看起来更加专业。例如 [CSS Beautifier/Formatter](https://codebeautify.org/css-beautify-minify)，只需将整个 CSS 文档复制粘贴，然后点击中间的 Beautify 按钮就好啦～
+在编写完成之后，推荐用一些工具来美化一下整个文档的代码格式，使其看起来更加专业。例如 [CSS Beautifier/Formatter](https://codebeautify.org/css-beautify-minify)，只需将整个 CSS 文档复制粘贴，然后点击中间的 Beautify 按钮就好啦～  
+该链接可能需要FQ，并且还提供了各种代码的美化工具哦。  
